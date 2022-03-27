@@ -1,0 +1,25 @@
+{
+  "name": "ideia-unica",
+  "version": "1.0.0",
+  "description": "aula com DESCHAMPS, site forma moderna.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvimsantos/ideia-unica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvimsantos/ideia-unica/issues"
+  },
+  "homepage": "https://github.com/kelvimsantos/ideia-unica#readme",
+  "dependencies": {
+    "next": "^12.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
