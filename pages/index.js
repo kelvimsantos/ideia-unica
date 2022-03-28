@@ -3,9 +3,10 @@ import{useState} from 'react';
 function Home()
 {
     return<div>
-    <h1>MINHA PÁGINA segunda branch</h1>
+    <h1>MINHA PÁGINA</h1>
             <Contador/>
             <div>seja bem vindo!</div>
+            <div>Site e desenvolviento</div>
             </div> 
 }
 
