@@ -7,6 +7,7 @@ function Home()
             <Contador/>
             <div>seja bem vindo!</div>
             <div>Site e desenvolviento</div>
+            <image src="C:\Users\PICHAU\Documents\meusprojetos\workspace\ideia-unica\ideia-unica\pages\source\logo.jpg"></image>
             </div> 
 }
 
